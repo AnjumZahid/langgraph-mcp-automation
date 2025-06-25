@@ -1,6 +1,6 @@
 # 🌦️ AI Agent with MCP: Weather and Email Automation (LangGraph + Groq)
 
-This is an end-to-end AI automation project that demonstrates how to build a smart agent using **LangGraph** and **Multi-Component Protocol (MCP)** to:
+This is an end-to-end AI automation project that demonstrates how to build a smart agent using **LangGraph** and **Model Context Protocol (MCP)** to:
 
 ✅ Get the current weather of any location  
 ✅ Send the weather update to an email address  
