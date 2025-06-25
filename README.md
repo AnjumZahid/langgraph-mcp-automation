@@ -121,7 +121,7 @@ Async HTTP	httpx
 Env Management	python-dotenv
 
 📸 YouTube Tutorial
-Watch the full tutorial:
+Watch the full tutorial: https://youtu.be/Z5S5eVHFH9I?si=MwpspN3e5daPtShN
 📺 AI Agent MCP Project - Weather + Email Automation
 
 📬 Contact
