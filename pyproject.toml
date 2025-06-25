@@ -1,0 +1,15 @@
+[project]
+name = "mcpserver"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115.13",
+    "fastmcp>=2.8.1",
+    "httpx>=0.28.1",
+    "langchain-groq>=0.3.2",
+    "langchain-mcp-adapters>=0.1.7",
+    "langgraph>=0.4.8",
+    "mcp>=1.9.4",
+]
